@@ -198,7 +198,7 @@ npm run dev.
 
 ---
 
-# 👩‍💻 Team Auracoder
+# 👩‍💻 Team codemafians
 
 - **moinuddin fazil**
 - **deepushree hp**
