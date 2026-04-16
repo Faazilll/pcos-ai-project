@@ -1,12 +1,4 @@
 # 🌸 AI-Powered Early Detection and Lifestyle Recommendation System for PCOS & PCOD
-
-![AI Healthcare](https://img.shields.io/badge/Domain-AI%20Healthcare-purple?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-React-orange?style=for-the-badge&logo=react)
-![Backend](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)
-![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
-![Status](https://img.shields.io/badge/Project-Hackathon%20Project-pink?style=for-the-badge)
-
 ---
 
 ---
