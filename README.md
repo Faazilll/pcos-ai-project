@@ -9,11 +9,6 @@
 
 ---
 
-## 🎥 Project Demo
-
-▶ **Watch the demo:**  
-https://youtu.be/qDjl8UE7Upo?si=LY__ghPlRhFxNEsO
-
 ---
 
 # 💡 Project Overview
@@ -200,33 +195,15 @@ npm start  # or python app.py
 cd frontend
 npm run dev.
 ```
----
-
-## AI/ML Model Overview
-
-Input: Cycle history, BMI, lifestyle habits, symptoms<br>
-Algorithm Used: Logistic Regression, Random Forest, and ANN<br>
-Output: PCOS/PCOD risk probability (0–100%)<br>
-Dataset: Preprocessed dataset (public + synthetic anonymized data)<br>
-Evaluation Metrics: Accuracy, Precision, Recall, F1 Score<br>
-
----
-## 🏆 Final Year & Hackathon Project
-
-Developed under the **Open Innovation Track** at **HackAura 2025**
-
-by **Team Auracoder 💜**
-
-> *Empowering Women’s Health with AI & Data-Driven Insights*
 
 ---
 
 # 👩‍💻 Team Auracoder
 
-- **Renu Kumari Prajapati**
-- **Arushi Thakur**
-- **Stuti Tiwari**
-- **Palchhin**
+- **moinuddin fazil**
+- **deepushree hp**
+- **ananya badkal**
+- **anfal**
 
 ----
 ---
